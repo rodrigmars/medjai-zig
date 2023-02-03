@@ -24,7 +24,7 @@ wget -c https://ziglang.org/builds/zig-linux-x86_64-0.11.0-dev.1507+6f13a725a.ta
 
 ```bash
 tar -xJf zig-linux-x86_64-0.11.0-dev.1507+6f13a725a.tar.xz
-$ cd zig-linux-x86_64-0.11.0-dev.1507+6f13a725a
+cd zig-linux-x86_64-0.11.0-dev.1507+6f13a725a
 ```
 
 - Adding new entry to PATH variable in **ZSH**
